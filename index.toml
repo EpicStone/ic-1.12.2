@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "industrialcraft-2-2.8.222-ex112.jar"
-hash = "f96b1886b6d060b308fb811029d5c5cc76deb17b835aa368dcb6071f2de290d4"
-
-[[files]]
 file = "mods/advanced-solar-panels.pw.toml"
 hash = "c87e332a4145ce5431f3d31178f4937ca39d2d3c4c7d285a99ea26824c45a2cc"
 metafile = true
@@ -113,6 +109,10 @@ metafile = true
 file = "mods/industrial-craft.pw.toml"
 hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
+
+[[files]]
+file = "mods/industrialcraft-2-2.8.222-ex112.jar"
+hash = "f96b1886b6d060b308fb811029d5c5cc76deb17b835aa368dcb6071f2de290d4"
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
