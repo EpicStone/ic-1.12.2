@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-solar-panels.pw.toml"
+hash = "45f9ac4e2f2ee3c58d8f019796d4c1248f8915255a92838857117902c7a558b6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
 
 [[files]]
