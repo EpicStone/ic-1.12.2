@@ -41,6 +41,11 @@ hash = "c6433a944c48a39f80d9aa1ff0541ff790d75466559f424d029c3e6343ac03da"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests-(with-netherite-chest).pw.toml"
+hash = "c971347b6154419360fff60a4d13b94e77cb079eca9142fbc549161d31c4c0c1"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "e9308379cdba34e04aba524155cd2014bc68de39e29b74f8c223b3a01ad7f7ff"
 metafile = true

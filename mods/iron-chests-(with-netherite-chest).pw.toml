@@ -1,0 +1,13 @@
+name = "Iron Chests (with Netherite Chest)"
+filename = "ironchest-netherite-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tPBdiPp/versions/SFHvrX8w/ironchest-netherite-1.12.2-1.0.2.jar"
+hash-format = "sha512"
+hash = "944700859fb4f3f23fd7d51275b4ff99a11280cc4d40311b486434f09c0337626d9d16b921ebdbed4d327966bde728164cc0db0896a96920dfb6e6510ede84c4"
+
+[update]
+[update.modrinth]
+mod-id = "7tPBdiPp"
+version = "SFHvrX8w"
