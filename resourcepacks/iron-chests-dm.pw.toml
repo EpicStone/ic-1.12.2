@@ -1,0 +1,13 @@
+name = "Iron Chests DM"
+filename = "Iron Chests DM-1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de0efd82cb6200c0f213fe5be41d4c5215374df2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6742392
+project-id = 1302369

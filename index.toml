@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8c56ff242b4104361a43c9f77a03cb3d1f1234daa11ce369db8b119021fdfcc2"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "8578c45d87d9fa7bcab790e2288279e40dba715aa64bff4e55b6fed8ea2f94d5"
+metafile = true
+
+[[files]]
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
+metafile = true
+
+[[files]]
+file = "mods/falling-trees-by-lukemcpe.pw.toml"
+hash = "a811de97227ada4711c92c8a839369fdd79d7dbd30218ea89e81cbd5faec6bec"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "fc5541cb60c86586857495faf985c573e89187b1bc7c04414acc3991c1531a7b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-legacy-forge.pw.toml"
+hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+metafile = true
+
+[[files]]
+file = "mods/ftb-utilities-forge.pw.toml"
+hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "c6433a944c48a39f80d9aa1ff0541ff790d75466559f424d029c3e6343ac03da"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e9308379cdba34e04aba524155cd2014bc68de39e29b74f8c223b3a01ad7f7ff"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks-unofficial.pw.toml"
+hash = "97afad43aab051629f2e0dddcd0aa9909b94b616642a5c5cd0ab1754e8cf9c9e"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "1976cfb3222e1f141aa56af5824be673771a9db93b49c7e48fa2cca3f58aef02"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
+metafile = true
+
+[[files]]
+file = "mods/xaerolib.pw.toml"
+hash = "ea052720280b413b7c7c6bb13acb748c74b92753961f4f627e31b1eae1ea36ca"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "60a452fce4fcdebbe4306d94ecf6e80e120dc73bd2e0007f16c7b7d6d31ec03c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/iron-chests-dm.pw.toml"
+hash = "a3a2774137047d663e109cf47b4ef6f16f27ede88b8c1bcf84b919f53a9b6a9e"
+metafile = true

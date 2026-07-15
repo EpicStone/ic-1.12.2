@@ -1,0 +1,13 @@
+name = "ic-1.12.2"
+author = "epic_st"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1cd2c69188e2006d4b79f571799e245628b93b6e799f8a9beb2a7f82a0497892"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"

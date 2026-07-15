@@ -1,0 +1,13 @@
+name = "Falling Trees By LukeMCPE"
+filename = "FallingTreesByLukeMCPE-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gFbXtn5j/versions/jHcdg4aC/FallingTreesByLukeMCPE-1.2.jar"
+hash-format = "sha512"
+hash = "dad39a0768f99b44dee047d682e74c09c441ea318bf2ece5e008109d88c3cbbfc4a93649f4c6017aac11f66e53818c7d4dc348056e62e872cf4bca4b7d20da38"
+
+[update]
+[update.modrinth]
+mod-id = "gFbXtn5j"
+version = "jHcdg4aC"
