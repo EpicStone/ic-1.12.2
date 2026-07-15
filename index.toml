@@ -111,8 +111,8 @@ hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
 
 [[files]]
-file = "mods/industrialcraft-2-2.8.222-ex112.jar"
-hash = "f96b1886b6d060b308fb811029d5c5cc76deb17b835aa368dcb6071f2de290d4"
+file = "mods/industrialcraft-2-2.8.221-ex112.jar"
+hash = "9ffb0ca27e779b1531a9502e581f9dcb13917d0a3e127bf4e1513ce4fedeaab0"
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
