@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-solars-classic.pw.toml"
+hash = "f2e60ebcf7ada64446424304c1a0488df8332c2aa8df918688bdf2e8a26e4729"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8c56ff242b4104361a43c9f77a03cb3d1f1234daa11ce369db8b119021fdfcc2"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
@@ -36,13 +46,28 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
-file = "mods/industrial-craft.pw.toml"
-hash = "c6433a944c48a39f80d9aa1ff0541ff790d75466559f424d029c3e6343ac03da"
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/ic2-classic.pw.toml"
+hash = "7a5879c1dde201b780097334277b110199d5e42a277fc130954b1d3e9df324f3"
 metafile = true
 
 [[files]]
 file = "mods/iron-chests-(with-netherite-chest).pw.toml"
 hash = "c971347b6154419360fff60a4d13b94e77cb079eca9142fbc549161d31c4c0c1"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-ic2classic.pw.toml"
+hash = "1e32888d748a070054d60010df57bacd0c6c4a6c6daf3bc35f9a042a4dba45d7"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
 metafile = true
 
 [[files]]

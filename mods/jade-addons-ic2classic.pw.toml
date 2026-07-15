@@ -1,0 +1,13 @@
+name = "IC2Classic: Jade Addon "
+filename = "IC2CJadeAddon-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82c8ef36547d039c8fd697ad2e4d1f78b5b24948"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6828010
+project-id = 932859
