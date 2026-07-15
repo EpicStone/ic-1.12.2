@@ -1,0 +1,13 @@
+name = "Tekkit Remastered"
+filename = "Tekkit Remastered-1.12.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e7cea41ba07d1d5aeb0102c98457d1bece4eb48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3448810
+project-id = 460636
