@@ -69,8 +69,3 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "60a452fce4fcdebbe4306d94ecf6e80e120dc73bd2e0007f16c7b7d6d31ec03c"
 metafile = true
-
-[[files]]
-file = "resourcepacks/iron-chests-dm.pw.toml"
-hash = "a3a2774137047d663e109cf47b4ef6f16f27ede88b8c1bcf84b919f53a9b6a9e"
-metafile = true
