@@ -112,12 +112,8 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-craft.pw.toml"
-hash = "c6433a944c48a39f80d9aa1ff0541ff790d75466559f424d029c3e6343ac03da"
+hash = "c023d7ad6923e017b60fbb0857e2e2b13d189db1d12389dbcba75a409c17066b"
 metafile = true
-
-[[files]]
-file = "mods/industrialcraft-2-2.8.170-ex112.jar"
-hash = "5e65adf95ae29d9b93f2e0bfeaee9433706ce0bffd7970da515540ddb912b147"
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
