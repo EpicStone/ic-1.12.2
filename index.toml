@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-craft.pw.toml"
-hash = "fb19bdcf54867ff0106d7c668622b2b1c7e06bb8969e15335b20e8e8711c959d"
+hash = "c6433a944c48a39f80d9aa1ff0541ff790d75466559f424d029c3e6343ac03da"
 metafile = true
 
 [[files]]
