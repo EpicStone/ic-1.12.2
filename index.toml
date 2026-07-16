@@ -56,6 +56,11 @@ hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
 metafile = true
 
 [[files]]
+file = "mods/compact-solars.pw.toml"
+hash = "c91e9bd1f944d41f57506f289fb43d4cb9dbf7e53d1b51c746bad7a34b31498c"
+metafile = true
+
+[[files]]
 file = "mods/computercraft.pw.toml"
 hash = "aef99dc21e86e5a94f7160431b170fa43aa1243f1f8a076c9154f2e375c2f234"
 metafile = true
