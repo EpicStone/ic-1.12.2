@@ -81,11 +81,6 @@ hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
 metafile = true
 
 [[files]]
-file = "mods/ender-io.pw.toml"
-hash = "5b104a1eb77e9ec43861aaabe2ff7f9fb76d95c7c813ba067ce16e92ac5fa0a9"
-metafile = true
-
-[[files]]
 file = "mods/endercore.pw.toml"
 hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
 metafile = true
