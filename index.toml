@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.pw.toml"
-hash = "8c8131805f28e56a2e696549552a3bb30a44efcae4bbae6b1e1354b0c2dfbf0c"
+hash = "5b104a1eb77e9ec43861aaabe2ff7f9fb76d95c7c813ba067ce16e92ac5fa0a9"
 metafile = true
 
 [[files]]
