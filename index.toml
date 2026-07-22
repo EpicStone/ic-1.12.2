@@ -71,6 +71,16 @@ hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
+metafile = true
+
+[[files]]
 file = "mods/ender-io.pw.toml"
 hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
 metafile = true
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/endercore.pw.toml"
 hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "ec69ddc616ac8fb57cc1d45da5e6b8326071946d69b38e41250768d9779dfe32"
 metafile = true
 
 [[files]]
